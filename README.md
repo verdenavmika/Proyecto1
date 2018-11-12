@@ -10,13 +10,11 @@
 #### Comandos básicos y Shorcuts para Jupyter Notebook (1,2)
 1. **a** Es usado para agregar una celda antes del cursor.
 2. **dd** Se utiliza para borrar la celda seleccionada por el cursor.
-3. ```print()``` Es usado para imprimir, numeros, palabras y variables
+3. ```print()``` Es usado para imprimir, numeros, palabras y variables.<br />
+Ejemplo: Se define una variable
 ```python
-    Ejemplo:
-      Se define una variable
-        k=5
-        print(5)
-        5
+      k = 5
+      print(k)
 ```
     Nota 1: En caso de declarar una variable que corresponda a una cadena de caracteres usar comillas.
     Nota 2: Para imprimir una palabra tambien hacer uso de comillas dentro del paréntesis.
