@@ -27,13 +27,14 @@ Nota 2: Para imprimir una palabra tambien hacer uso de comillas dentro del paré
 
 4. ```type()``` Esta función indica el tipo de objeto que corresponde a determinada variable
 <br />
+Ejemplo: Haciando uso de la misma variable k se tiene lo siguiente.
+
 ```python
-    Ejemplo:
-      Haciando uso de la misma variable k se tiene lo siguiente
       type(k)
       int
-      Es decir que k es una variable entera.
 ```
+<br />
+Es decir que k es una variable entera.
 
 #### Tipos de objetos
 
