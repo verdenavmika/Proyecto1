@@ -25,9 +25,9 @@
 <br />
 Ejemplo:
 ```python
-Haciando uso de la misma variable k se tiene lo siguiente
-type(k)
-int
+  Haciando uso de la misma variable k se tiene lo siguiente
+  type(k)
+  int
 ```
 Es decir que k es una variable entera.
 #### Tipos de objetos
