@@ -23,14 +23,13 @@
 
 4. ```type()``` Esta función indica el tipo de objeto que corresponde a determinada variable
 <br />
+Ejemplo:
 ```python
-    Ejemplo:
-      Haciando uso de la misma variable k se tiene lo siguiente
-      type(k)
-      int
-      Es decir que k es una variable entera.
+Haciando uso de la misma variable k se tiene lo siguiente
+type(k)
+int
 ```
-
+Es decir que k es una variable entera.
 #### Tipos de objetos
 
 1. ```int``` : integer; **99**
